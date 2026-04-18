@@ -12,4 +12,4 @@ This dashboard is to contribute to the success of a business by utilizing data a
 - End goal is to share valuable insights and actionable information that can drive strategic decision making- and support the supermarket's goal for growth, efficiency, and customer satisifaction.
 
 ## Dashboard Preview
-![Dasboard Preview](dashboard.png)
+![Dasboard Preview](Superstore Sales dashboard.png)(Sales forecast screenshot.png)
