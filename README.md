@@ -34,10 +34,10 @@ The dashboard helps stakeholders make data-driven decisions by providing insight
 ## 🖼 Dashboard Preview
 
 ### 🔹 Sales Dashboard
-![Sales Dashboard](Superstore Sales dashboard screenshot.png)
+![Sales Dashboard](sales_dashboard.png)
 
 ### 🔹 Sales Forecast
-![Sales Forecast](Sales forecast screenshot.png)
+![Sales Forecast](sales_forecast.png)
 
 ---
 
