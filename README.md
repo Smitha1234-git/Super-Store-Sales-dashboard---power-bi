@@ -37,7 +37,7 @@ The dashboard helps stakeholders make data-driven decisions by providing insight
 ![Sales Dashboard](sales_dashboard.png)
 
 ### 🔹 Sales Forecast
-![Sales Forecast](sales_forecast.png)
+![Sales Forecast](Sales_forecast.png)
 
 ---
 
