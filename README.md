@@ -13,4 +13,4 @@ This dashboard is to contribute to the success of a business by utilizing data a
 
 ## Dashboard Preview
 ![Dasboard](Superstore Sales.png)
-![Dasboard](Sales forecast.png)
+![Dasboard](Sales forecast screenshot.png)
